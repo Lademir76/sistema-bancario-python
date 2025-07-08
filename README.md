@@ -77,12 +77,5 @@ Este repositório tem como propósito:
 - Web scraping com `BeautifulSoup`
 - Banco de dados com `sqlite3`
 - Introdução a frameworks: Flask, Django
-- Automatização com `selenium`
-
----
-
-## 📁 Estrutura do Repositório
-
-
-
+- Automatização com `seleniun
 
