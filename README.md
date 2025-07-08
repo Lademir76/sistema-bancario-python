@@ -1,6 +1,6 @@
 # 🐍 Aprendendo Python — Do Básico ao Avançado
 
-Bem-vindo ao meu repositório de estudos em Python! Aqui você encontrará anotações, exemplos de código e exercícios práticos que cobrem desde os fundamentos da linguagem até conceitos mais avançados. Este projeto é parte da minha jornada de aprendizado como programador autodidata.
+Bem-vindo ao meu repositório de estudos em Python! Aqui você encontrará anotações, exemplos de código e exercícios práticos que cobrem desde os fundamentos da linguagem até conceitos mais avançados. Este projeto é parte da minha jornada de aprendizado como programador.
 
 ---
 
@@ -77,5 +77,9 @@ Este repositório tem como propósito:
 - Web scraping com `BeautifulSoup`
 - Banco de dados com `sqlite3`
 - Introdução a frameworks: Flask, Django
-- Automatização com `seleniun
+- Automatização com `selenium`
+
+---
+
+## 📁 Estrutura do Repositório
 
