@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-Este projeto é uma implementação simples de um sistema bancário desenvolvido em Python, como parte de um desafio prático da DIO (Digital Innovation One). O objetivo é simular operações bancárias básicas como **depósito**, **saque** e **extrato**, utilizando conceitos fundamentais da linguagem Python.
+Este projeto é uma implementação pessoal de um sistema bancário simples, desenvolvido com a linguagem Python. O objetivo é simular operações bancárias básicas como **depósito**, **saque** e **extrato**, utilizando conceitos fundamentais da programação.
 
 ## 💻 Funcionalidades
 
@@ -17,7 +17,19 @@ Este projeto é uma implementação simples de um sistema bancário desenvolvido
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario-python.git
-   ```
+1. Copie o código do arquivo `desafio.py` para seu editor Python favorito (VS Code, PyCharm, Jupyter, etc.).
+
+2. Certifique-se de que o Python 3 está instalado em sua máquina.
+
+3. Execute o script no terminal ou diretamente pelo editor.
+
+## 📌 Observações
+
+- O sistema é executado via terminal e simula um único usuário.
+- Os dados não são persistidos após o encerramento do programa.
+
+## ✍️ Sobre o Projeto
+
+Este projeto foi desenvolvido como parte do meu aprendizado e prática com a linguagem Python. Ele representa um passo importante na construção do meu portfólio de projetos e no desenvolvimento de habilidades em lógica de programação e construção de sistemas simples.
+
+Fique à vontade para explorar, testar e sugerir melhorias!
