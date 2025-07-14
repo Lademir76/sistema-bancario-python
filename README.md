@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-Este projeto é uma implementação pessoal de um sistema bancário simples, desenvolvido com a linguagem Python. O objetivo é simular operações bancárias básicas como **depósito**, **saque** e **extrato**, utilizando conceitos fundamentais da programação.
+Este projeto é uma implementação de um sistema bancário simples, desenvolvido com a linguagem Python. O objetivo é simular operações bancárias básicas como **depósito**, **saque** e **extrato**, utilizando conceitos fundamentais da programação.
 
 ## 💻 Funcionalidades
 
