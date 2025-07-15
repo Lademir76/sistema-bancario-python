@@ -33,4 +33,4 @@ Este projeto é uma implementação de um sistema bancário simples, desenvolvid
 Este projeto foi desenvolvido como parte do meu aprendizado e prática com a linguagem Python. Ele representa um passo importante na construção do meu portfólio de projetos e no desenvolvimento de habilidades em lógica de programação e construção de sistemas simples.
 
 Fique à vontade para explorar, testar e sugerir melhorias!
->>>>>>> ad6756e54cfb62133d3a18c5e9521c187ad128f9
+
